@@ -27,8 +27,8 @@ This repository contains evidence of my personal technical capability for <abbr 
 
 * [Playwright (TypeScript)](/playwright-sample)<br>
 <abbr title="user interface">UI</abbr> and <abbr title="application programming interface">API</abbr> tests using the [Playwright](https://playwright.dev/) framework. Runnable. Shows framwork setup and actual tests. Implemented with TypeScript.
-* [Other Project](#)<br>
-Some other project I want you to see
+* [SQL (with Python and Jupyter Notebook)](/sql)<br>
+Demonstrates ability to write SQL queries using Python and Jupyter Notebook.
 
 ## Questions
 
